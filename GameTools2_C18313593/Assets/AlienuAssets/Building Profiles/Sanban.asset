@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f6e6f93bbb0954ab3a41b16cc8a507, type: 3}
+  m_Name: Sanban
+  m_EditorClassIdentifier: 
+  topMeshes:
+  - {fileID: 746850768763028875, guid: 2ee8f6fb1637c3441a6f07bdb251ebcf, type: 3}
+  - {fileID: 8364062792205436496, guid: be57a6ce96267bd48a791b4707db8088, type: 3}
+  - {fileID: -2001007463727224436, guid: 4af672453f932bc49b933d480bd1632e, type: 3}
+  - {fileID: -2423763149016875186, guid: 90fa51b4101d8444ab7bf854f83fd3e2, type: 3}
+  midMeshes:
+  - {fileID: 1846653201744175015, guid: 47da2b13d010b4a42909ec2b7d124826, type: 3}
+  - {fileID: 3673722810935237965, guid: 22d6d4b4b19385b47a24337c40596759, type: 3}
+  bottomMeshes:
+  - {fileID: 3673722810935237965, guid: 22d6d4b4b19385b47a24337c40596759, type: 3}
+  - {fileID: 1846653201744175015, guid: 47da2b13d010b4a42909ec2b7d124826, type: 3}
+  - {fileID: -5387877993904369314, guid: 8778eeb1b3de9714f918b05acc176ee6, type: 3}
+  topMaterials:
+  - {fileID: 2100000, guid: a4447cc3ec4ee5b4995ef78dde43318d, type: 2}
+  - {fileID: 2100000, guid: 4a932b2f8806d9b428973a2651aeade8, type: 2}
+  - {fileID: 2100000, guid: a560d575793661f4d82cf1e872217387, type: 2}
+  - {fileID: 2100000, guid: e3319fa25aeabc14b87bb46d0767910c, type: 2}
+  midMaterials:
+  - {fileID: 2100000, guid: 3e0189fb2b960094c87a30631420e8af, type: 2}
+  - {fileID: 2100000, guid: 30a119decf9aee94297a8cad82ffa4f7, type: 2}
+  bottomMaterials:
+  - {fileID: 2100000, guid: 7502007797c96034da12e1b2c35b52c4, type: 2}
+  - {fileID: 2100000, guid: a4447cc3ec4ee5b4995ef78dde43318d, type: 2}
+  - {fileID: 2100000, guid: 4a932b2f8806d9b428973a2651aeade8, type: 2}
+  randomizeColors: 1
